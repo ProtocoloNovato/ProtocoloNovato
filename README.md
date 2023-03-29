@@ -1,9 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="200" />
-    <h1 align="center">Hi👋, I'm ProtoNoob</h1>
-    </h3 align="center"> BLA BLA BLA....
-        A
-        A
+    <h1 align="center">Hi👋, I'm Nicolas Arriola</h1>
+    </h3 align="center"> 
+        I'm a student of the Bachelor of Computer Science, I'm also doing separate courses. 💭
     </h3>
 </div>
 
@@ -14,4 +13,19 @@
 - 🌱 I’m currently learning Java, SQL, HTML5, CSS3 and JavaScript
 - 🤔 I’m looking for help with Java OOP
 - 💬 Ask me about python
-- 📫 How to reach me: https://www.linkedin.com/in/nicolas-arriola-923369156/
+- 📫 How to reach me: nicoalearriola@gmail.com
+- 🌎 Linkedin: [profile](https://www.linkedin.com/in/nicolas-arriola-923369156/)
+
+---
+
+<div align="left">
+    <h3> 🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+    </div>>
+</div>   
