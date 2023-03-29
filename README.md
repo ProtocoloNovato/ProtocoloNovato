@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="200" />
+    <h1 align="center">Hi👋, I'm ProtoNoob</h1>
+    </h3 align="center"> BLA BLA BLA....
+        A
+        A
+    </h3>
+</div>
 
-<!--
-**ProtocoloNovato/ProtocoloNovato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### About me :
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on two courses in Data Science and Basic Web Programming
+- 🌱 I’m currently learning Java, SQL, HTML5, CSS3 and JavaScript
+- 🤔 I’m looking for help with Java OOP
+- 💬 Ask me about python
+- 📫 How to reach me: https://www.linkedin.com/in/nicolas-arriola-923369156/
