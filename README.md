@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="200" />
+    <img src="<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd">via GIPHY</a></p>" width="200" />
     <h1 align="center">Hi👋, I'm ProtoNoob</h1>
     </h3 align="center"> BLA BLA BLA....
         A
