@@ -32,4 +32,4 @@
 
 ---
 
-![ProtocoloNovato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProtocoloNovato&theme=dark&show_icons=true)
+![ProtocoloNovato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProtocoloNovato&theme=radical&show_icons=true)
