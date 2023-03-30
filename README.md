@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.mp4" width="200" />
+    <img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" width="200" />
     <h1 align="center">Hi👋, I'm Nicolas Arriola</h1>
         </h3 align="center"> 
             I'm a student of the Bachelor of Computer Science, I'm also doing separate courses. 💭
