@@ -31,20 +31,9 @@
 </div>   
 
 ---
+### 📈 My Stats:
 
 ![ProtocoloNovato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProtocoloNovato&theme=radical&show_icons=true)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtocoloNovato)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtocoloNovato&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtocoloNovato&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtocoloNovato&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtocoloNovato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtocoloNovato&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Protocolo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
