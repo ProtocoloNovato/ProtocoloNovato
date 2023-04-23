@@ -21,15 +21,21 @@
 <div align="left">
     <h3> 🔨 Languages and Tools:</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-        <a href="https://www.mysql.com/" rel="nofollow"> 
+        <a href="https://www.python.org" rel="nofollow">
+	    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+	</a>
+	<a href="https://dev.java" rel="nofollow">
+	    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+	</a>
+	<a href="https://www.mysql.com/" rel="nofollow"> 
 	        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
         </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;	  </a>	
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
-	<a href="https://www.jetbrains.com/idea/promo/?source=google&medium=cpc&campaign=9731171904&term=javascript%20in%20java&content=602320947256&gad=1&gclid=CjwKCAjwrpOiBhBVEiwA_473dB6JCY2QIxErF9FxwjhyL4aLOBCvmuz9F_5f7cSPtHVXwmvLZB-oxBoCKswQAvD_BwE" tarjet="_black">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
+	    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
         	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
 	</a>
     </div>
