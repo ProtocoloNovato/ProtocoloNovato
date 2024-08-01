@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/embed/Yfl7CS7vQqnebA69aH" width="200" />
+    <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="200" />
     <h1 align="center">Hi👋, I'm the secondary account of Nicolas Arriola</h1>
         </h3 align="center"> 
             I'm a student of the Bachelor of Computer Science, I'm also doing separate courses. 💭
